@@ -1,6 +1,17 @@
 ## FULLSTACK PROJECT WITH CRUD
 
 In this particular problem statement you have to make a full fledged fullstack website. You can use anything for frontend be it React or plain HTML, CSS and JS. The goal is to learn frontend and backend in one go. You can be as creative as you want.
+Deployed link => https://mernstack-zeta.vercel.app/
+
+## Sreeen Shots
+  -HomePage
+  ![image](https://user-images.githubusercontent.com/106643486/220140690-3d096cbf-b385-44e4-b525-dabac144e255.png)
+  - Users Page
+  ![image](https://user-images.githubusercontent.com/106643486/220140957-314eb5d6-1eb1-49ae-8099-c9bbc3b53f28.png)
+  - Login Page
+  ![image](https://user-images.githubusercontent.com/106643486/220141090-81c59a49-6858-460a-b775-4d4ba6242bda.png)
+  -SignUp Page
+  ![image](https://user-images.githubusercontent.com/106643486/220141179-0babad26-a48f-4b62-85f5-2aa4f1678c00.png)
 
 ## Navigation Bar
 
