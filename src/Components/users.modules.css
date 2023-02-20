@@ -1,0 +1,44 @@
+.users {
+    width: 80%;
+    margin: auto;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+	.users {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 5px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.users {
+		grid-template-columns: repeat(1, 1fr);
+		gap: 5px;
+	}
+}
+
+
+.notes {
+    width: 80%;
+    margin: auto;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+	.notes {
+		grid-template-columns: repeat(1, 1fr);
+		gap: 5px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.notes {
+		grid-template-columns: repeat(1, 1fr);
+		gap: 5px;
+	}
+}
