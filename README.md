@@ -2,7 +2,14 @@
 
 In this particular problem statement you have to make a full fledged fullstack website. You can use anything for frontend be it React or plain HTML, CSS and JS. The goal is to learn frontend and backend in one go. You can be as creative as you want.
 Deployed link => https://mernstack-zeta.vercel.app/
-
+## Features
+<ul>
+<li>Add users</li>
+<li>Login/SignUp</li>
+<li>Add Notes</li>
+<li>Update/Delete your own Notes</li>
+<li>View others notes as well</li>
+</ul>
 ## Sreeen Shots
   -HomePage
   ![image](https://user-images.githubusercontent.com/106643486/220140690-3d096cbf-b385-44e4-b525-dabac144e255.png)
