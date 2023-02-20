@@ -80,10 +80,7 @@ Deployed link => https://mernstack-zeta.vercel.app/
 
 ## Note
 
-- Use MongoDB atlas to carryout all the database related stuff.
+- Used MongoDB atlas to carryout all the database related stuff.
 - Submit the GitHub link once done.
 - Submission Link
 
-## SUBMIT
-
-- ASSIGNMENT CONCLUDES DATE AND TIME : (22 FEB, 23 - 11:59 PM)
